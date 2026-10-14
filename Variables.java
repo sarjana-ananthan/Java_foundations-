@@ -1,4 +1,4 @@
-Variables In Java:
+##Variable In Java:
 Variables are containers. That will help you to store your data. A variable in java is a name given to a memory location where data is stored. 
 Like:
   • Water bottle stores water. 
